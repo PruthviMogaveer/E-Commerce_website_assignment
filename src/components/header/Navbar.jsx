@@ -16,6 +16,7 @@ const Navbar = () => {
     ...category.subcategories.flatMap(subcategory => [subcategory, ...subcategory.subcategories])
   ]); //Taking all the categories and subcategories from the json data and stores each categories/subcategories info data into array of object format
 
+  
   return (
     <nav className=" w-full flex flex-wrap justify-around items-center sm:space-x-5 max-sm:flex-col max-sm:space-y-5">
       {/* logo */}
