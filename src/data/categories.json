@@ -1,0 +1,298 @@
+{
+  "categories": [
+    {
+      "name": "Top Offers",
+      "subcategories": [
+        {
+          "name": "Mobiles",
+          "subcategories":[]
+        },
+        {
+          "name": "Clothes",
+          "subcategories":[]
+        }
+      ]
+    },
+    {
+      "name": "Mobiles",
+      "subcategories": [
+        {
+          "name": "Smartphones",
+          "subcategories": []
+        },
+        {
+          "name": "Feature Phones",
+          "subcategories": []
+        },
+        {
+          "name": "Mobile Accessories",
+          "subcategories": [
+            {
+              "name": "Chargers",
+              "subcategories": []
+            },
+            {
+              "name": "Cables",
+              "subcategories": []
+            },
+            {
+              "name": "Cases & Covers",
+              "subcategories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fashion",
+      "subcategories": [
+        {
+          "name": "Men",
+          "subcategories": [
+            {
+              "name": "Ethnic Wear",
+              "subcategories": [
+                {
+                  "name": "Kurtas",
+                  "subcategories": []
+                },
+                {
+                  "name": "Sherwanis",
+                  "subcategories": []
+                }
+              ]
+            },
+            {
+              "name": "Western Wear",
+              "subcategories": [
+                {
+                  "name": "T-Shirts",
+                  "subcategories": []
+                },
+                {
+                  "name": "Jeans",
+                  "subcategories": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Women",
+          "subcategories": [
+            {
+              "name": "Ethnic Wear",
+              "subcategories": [
+                {
+                  "name": "Sarees",
+                  "subcategories": []
+                },
+                {
+                  "name": "Salwar Suits",
+                  "subcategories": []
+                }
+              ]
+            },
+            {
+              "name": "Western Wear",
+              "subcategories": [
+                {
+                  "name": "Dresses",
+                  "subcategories": []
+                },
+                {
+                  "name": "Tops",
+                  "subcategories": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Home",
+      "subcategories": [
+        {
+          "name": "Furniture",
+          "subcategories": [
+            {
+              "name": "Living Room",
+              "subcategories": []
+            },
+            {
+              "name": "Bedroom",
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "name": "Home Decor",
+          "subcategories": [
+            {
+              "name": "Wall Art",
+              "subcategories": []
+            },
+            {
+              "name": "Lighting",
+              "subcategories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electronics",
+      "subcategories": [
+        {
+          "name": "Laptops",
+          "subcategories": []
+        },
+        {
+          "name": "Televisions",
+          "subcategories": []
+        },
+        {
+          "name": "Cameras",
+          "subcategories": [
+            {
+              "name": "DSLR",
+              "subcategories": []
+            },
+            {
+              "name": "Mirrorless",
+              "subcategories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Appliances",
+      "subcategories": [
+        {
+          "name": "Refrigerators",
+          "subcategories": []
+        },
+        {
+          "name": "Washing Machines",
+          "subcategories": []
+        },
+        {
+          "name": "Kitchen Appliances",
+          "subcategories": [
+            {
+              "name": "Microwaves",
+              "subcategories": []
+            },
+            {
+              "name": "Mixers",
+              "subcategories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grocery",
+      "subcategories": [
+        {
+          "name": "Fruits & Vegetables",
+          "subcategories": []
+        },
+        {
+          "name": "Dairy Products",
+          "subcategories": []
+        },
+        {
+          "name": "Snacks",
+          "subcategories": [
+            {
+              "name": "Chips",
+              "subcategories": []
+            },
+            {
+              "name": "Cookies",
+              "subcategories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beauty and Toys",
+      "subcategories": [
+        {
+          "name": "Men's Grooming",
+          "subcategories": [
+            {
+              "name": "Shaving",
+              "subcategories": []
+            },
+            {
+              "name": "Skincare",
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "name": "Food & Drinks",
+          "subcategories": [
+            {
+              "name": "Beverages",
+              "subcategories": [
+                {
+                  "name": "Tea",
+                  "subcategories": []
+                },
+                {
+                  "name": "Coffee",
+                  "subcategories": []
+                }
+              ]
+            },
+            {
+              "name": "Nuts & Dry fruits",
+              "subcategories": [
+                {
+                  "name": "Almonds",
+                  "subcategories": []
+                },
+                {
+                  "name": "Cashews",
+                  "subcategories": []
+                }
+              ]
+            },
+            {
+              "name": "Chocolates",
+              "subcategories": [
+                {
+                  "name": "Dark Chocolate",
+                  "subcategories": []
+                },
+                {
+                  "name": "Milk Chocolate",
+                  "subcategories": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Toys",
+          "subcategories": [
+            {
+              "name": "Action Figures",
+              "subcategories": []
+            },
+            {
+              "name": "Educational Toys",
+              "subcategories": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
