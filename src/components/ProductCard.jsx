@@ -3,7 +3,7 @@ import React from 'react';
 const ProductCard = ({ product }) => {
     return (
 
-        <div className="cursor-pointer w-56 max-md:w-36 max-sm:w-32 max-lg:w-44 max-xl:w-48 max-md:mx-2 rounded-lg p-2 shadow-lg bg-white mx-6 mb-16 overflow-hidden hover:bg-slate-50 hover:scale-105 transition-all duration-100">
+        <div className="my-2 cursor-pointer w-56 max-md:w-36 max-sm:w-36 max-lg:w-44 max-xl:w-48 max-md:mx-2 rounded-lg p-2 shadow-lg bg-white mx-6 mb-8 overflow-hidden hover:scale-105 transition-all duration-100">
             <img className="w-full h-48 max-md:h-36 max-lg:h-40 object-contain rounded-lg" src={product.image} alt={product.name} />
             <div className="px-2 py-4 max-md:px-1 max-md:py-2 w-full">
                 <div className="font-semibold max-md:font-medium max-md:text-lg text-xl mb-1 text-gray-950 w-full truncate">{product.name}</div>
