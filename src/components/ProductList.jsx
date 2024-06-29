@@ -18,7 +18,7 @@ const ProductList = ({ category }) => {
     };
 
     var settings = {
-        infinite: false,
+        infinite: true,
         speed: 500,
         slidesToShow: 5,
         slidesToScroll: 1,
@@ -27,6 +27,7 @@ const ProductList = ({ category }) => {
             {
                 breakpoint: 1024,
                 settings: {
+                    infinite: true,
                     slidesToShow: 4,
                     slidesToScroll: 1,
                 }
@@ -34,6 +35,7 @@ const ProductList = ({ category }) => {
             {
                 breakpoint: 768,
                 settings: {
+                    infinite: false,
                     slidesToShow: 3,
                     slidesToScroll: 2,
                     dots: true
@@ -42,6 +44,7 @@ const ProductList = ({ category }) => {
             {
                 breakpoint: 640,
                 settings: {
+                    infinite: false,
                     slidesToShow: 2,
                     slidesToScroll: 2,
                     dots: true
